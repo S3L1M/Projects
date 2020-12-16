@@ -16,7 +16,6 @@
 - #### [Croma](https://github.com/S3L1M/Croma)
 - #### [Nunchuk](https://github.com/S3L1M/Nunchuk)
 - #### [Image Color Minpulator Visualize](https://github.com/S3L1M/Image-RGB-Ratio)
-- #### [Musical Structure App](https://github.com/S3L1M/Musical-Structure-App)
 - #### [Intersecting Disks](https://github.com/S3L1M/Intersecting-Disks)
 
 ### VB.Net
